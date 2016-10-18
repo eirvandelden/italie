@@ -4,7 +4,6 @@ layout: default
 
 <div class="hero hero-welcome">
   <img src="/images/save-the-date-logo.png">
-  <div class="hero-bar"></div>
 </div>
 
 <div class="text-block">
@@ -55,12 +54,53 @@ layout: default
   </div>
 </div>
 
+<div class="hero hero-title">
+  <h2>
+    Ceremonie
+  </h2>
+</div>
+<div class="text-block">
+  <div class="text-block-inner">
+    <p>
+      Tijdens de ceremonie is er ruimte voor 50-60 mensen om te staan.
+    </p>
+  </div>
+</div>
+
+<div class="hero hero-title">
+  <h2>
+    Lunch
+  </h2>
+</div>
+<div class="text-block">
+  <div class="text-block-inner">
+    <p>
+      Als je wil, kan je met het gezelschap na de ceremonie mee lunchen. Als er veel mensen willen mee lunchen, moeten we een bijdrage vragen voor de lunch.
+    </p>
+    <p>
+      Tijdens de lunch is ook de fotosessie voor het bruidspaar en naaste familie.
+    </p>
+  </div>
+</div>
+
+<div class="hero hero-title">
+  <h2>
+    Diner
+  </h2>
+</div>
+<div class="text-block">
+  <div class="text-block-inner">
+    <p>
+      Als je wil, kan je in de avond ook mee doen met het diner met het gezelschap. Er is nog ruimte voor 50-60 extra gasten. Om de extra kosten te dekken, moeten we een vaste bijdrage vragen per persoon. Het exacte bedrag wordt bepaald aan het aantal mensen wat wil mee eten, maar het ligt rond de €125,- per persoon.
+    </p>
+  </div>
+</div>
+
 <div class="hero hero-title hero-title-rsvp">
   <h2>
     RSVP
   </h2>
 </div>
-
 <div class="text-block">
   <div class="text-block-inner">
     <p>
@@ -74,7 +114,6 @@ layout: default
     Nieuws
   </h2>
 </div>
-
 <div class="text-block">
   <div class="text-block-inner">
     <h2>TODO</h2>
