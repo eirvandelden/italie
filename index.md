@@ -54,7 +54,7 @@ layout: default
   </div>
 </div>
 
-<div class="hero hero-title">
+<div class="hero hero-title hero-title-ceremony">
   <h2>
     Ceremonie
   </h2>
@@ -67,7 +67,7 @@ layout: default
   </div>
 </div>
 
-<div class="hero hero-title">
+<div class="hero hero-title hero-title-lunch">
   <h2>
     Lunch
   </h2>
@@ -83,7 +83,7 @@ layout: default
   </div>
 </div>
 
-<div class="hero hero-title">
+<div class="hero hero-title hero-title-dinner">
   <h2>
     Diner
   </h2>
@@ -116,9 +116,11 @@ layout: default
 </div>
 <div class="text-block">
   <div class="text-block-inner">
-    <h2>TODO</h2>
     <p>
-      De website met al het nieuws is online!
+      Hier vind je alle nieuwe berichten rondom de bruiloft. Tevens krijg je een mailtje als er nieuws is.
+    </p>
+    <p>
+      De website voor de mensen die speciaal voor ons naar Italië reizen is online!
     </p>
   </div>
 </div>
