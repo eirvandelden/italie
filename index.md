@@ -32,7 +32,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      Op <em>13 september 2017</em> is de plechtigheid. In de ochtend vind de ceremonie plaats. In de middag is er een gezamenlijke lunch en een foto sessie. In de avond gaan we gezamenlijk dineren.
+      Op <em>13 september 2017 </em> is de plechtigheid. In de ochtend vind de ceremonie plaats. Na de ceremonie gaan de daggasten lunchen en is er een foto sessie. In de avond gaan de daggasten gezamenlijk dineren.
     </p>
   </div>
 </div>
@@ -62,7 +62,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      Tijdens de ceremonie is er ruimte voor 50-60 mensen om te staan.
+      Tijdens de ceremonie is er ruimte voor 50-60 mensen om te staan en maar een paar zit plaatsen. Graag even doorgeven of je bij de ceremonie wilt zijn.
     </p>
   </div>
 </div>
@@ -91,7 +91,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      Als je wil, kan je in de avond ook mee doen met het diner met het gezelschap. Er is nog ruimte voor 50-60 extra gasten. Om de extra kosten te dekken, moeten we een vaste bijdrage vragen per persoon. Het exacte bedrag wordt bepaald aan het aantal mensen wat wil mee eten, maar het ligt rond de €125,- per persoon.
+      Als je wil, kan je in de avond ook mee dineren met het gezelschap. Er is nog ruimte voor 50-60 extra gasten. Het diner is berekend op het aantal daggasten. Om mee te dineren moeten we een vaste bijdrage vragen per persoon. Het exacte bedrag wordt bepaald aan het totaal aantal mensen dat wil mee eten, maar zal uitkomen op ongeveer €125,- per persoon.
     </p>
   </div>
 </div>
@@ -120,7 +120,7 @@ layout: default
       Hier vind je alle nieuwe berichten rondom de bruiloft. Tevens krijg je een mailtje als er nieuws is.
     </p>
     <p>
-      De website voor de mensen die speciaal voor ons naar Italië reizen is online!
+      <strong>01-01-2017 </strong>De website voor de mensen die speciaal voor ons naar Italië reizen is online!
     </p>
   </div>
 </div>
