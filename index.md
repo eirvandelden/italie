@@ -118,7 +118,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZB7n4DWMMNfMrtl4POA1K4WsFwbonh6dutcVcu2gEVUeiwQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNTFOIhRV2kvGllReA6JMDd2sJht7RI6p_hBzIhOGjrX02OA/viewform?embedded=true" marginheight="0" marginwidth="0">Bezig met laden...</iframe>
     </p>
   </div>
 </div>
