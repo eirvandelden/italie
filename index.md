@@ -105,7 +105,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      Als je wil, kan je in de avond ook mee dineren met het gezelschap. Er is nog ruimte voor 50-60 extra gasten. Het diner is berekend op het aantal daggasten. Om mee te dineren moeten we een vaste bijdrage vragen per persoon. Het exacte bedrag wordt bepaald aan het totaal aantal mensen dat wil mee eten, maar zal uitkomen op ongeveer €125,- per persoon.
+      Als je wil, kan je in de avond ook mee dineren met het gezelschap. Er is nog ruimte voor 50-60 extra gasten. Het diner is berekend op het aantal daggasten. Om mee te dineren moeten we een vaste bijdrage vragen per persoon. Het exacte bedrag wordt bepaald aan het totaal aantal mensen dat wil mee eten, maar zal uitkomen op ongeveer €130,- per persoon.
     </p>
   </div>
 </div>
