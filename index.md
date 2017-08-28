@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id='note'>
-  Er is nieuws over de <a href="#wanneer">dagplanning</a>, <a href="#waar">locaties</a>, <a href='#lunch'>de lunch</a> en <a href="#diner">het diner</a>.
+  Er is nieuws over de <a href="#wanneer">dagplanning</a>, <a href="#waar">locaties</a>, <a href='#lunch'>de lunch</a> en <a href="#dinner">het diner</a>.
 </div>
 
 <div class="hero hero-welcome">
@@ -145,7 +145,7 @@ layout: default
 </div>
 
 <div class="hero hero-title hero-title-dinner">
-  <h2 id='diner'>
+  <h2 id='dinner'>
     Diner
   </h2>
 </div>
