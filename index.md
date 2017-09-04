@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id='note'>
-  Er is nieuws over de <a href="#wanneer">dagplanning</a>, <a href="#waar">locaties</a>, <a href='#lunch'>de lunch</a> en <a href="#dinner">het diner</a>.
+  De exacte tijden van de <a href="#wanneer">dagplanning</a> zijn bekend.
 </div>
 
 <div class="hero hero-welcome">
@@ -39,22 +39,28 @@ layout: default
       Op <em>13 september 2017</em> is de plechtigheid.
     </p>
     <p>
-      's Ochtends vroeg haalt Etienne Michèlle op bij de villa Faltignano op het terrein van Castello del Trebbio.
+      <strong>09:00</strong> haalt Etienne Michèlle op bij de villa Faltignano op het terrein van Castello del Trebbio.
     </p>
     <p>
-      <strong>10:00</strong> Het busje vertrekt vanuit Castello del Trebbio naar Florence. Er is genoeg plek om mee te rijden in de bus!
+      <strong>Rond 09:15</strong> Het busje vertrekt vanuit Castello del Trebbio naar Florence. Er is genoeg plek om mee te rijden in de bus.
+    </p>
+    <p>
+      <strong>10:15</strong> Aankomst busje in Florence op Piazza Gaetano Salvemini, het gezelschap loopt naar Palazzo Vecchio.
     </p>
     <p>
       <strong>11:00</strong> Ceremonie in Palazzo Vecchio
     </p>
     <p>
+      <strong>11:30</strong> Fotoshoot met het bruidspaar in Florence.
+    </p>
+    <p>
       <strong>12:30</strong> Lunch in "La Boccanegra", voor zij die zich hebben aangemeld voor de lunch.
     </p>
     <p>
-      <strong>14:00</strong> Het busje vertrekt terug naar Castello del Trebbio. Wederom, er is genoeg plek om mee te rijden in de bus.
+      <strong>15:30</strong> De bus vertrekt vanuit Piazza Gaetano Salvemini terug naar Castello del Trebbio. Wederom, er is genoeg plek om mee te rijden in de bus.
     </p>
     <p>
-      <strong>18:30</strong> Aperitief bij restaurant "La Sosta del Gusto" op het terrein van Castello del Trebbio, voor zij die zich hebben aangemeld voor het diner.
+      <strong>18:00</strong> "Aperitivo" bij restaurant "La Sosta del Gusto" op het terrein van Castello del Trebbio, voor zij die zich hebben aangemeld voor het diner.
     </p>
     <p>
       <strong>19:00</strong> Diner bij restaurant "La Sosta del Gusto" op het terrein van Castello del Trebbio, voor zij die zich hebben aangemeld voor het diner.
@@ -191,7 +197,7 @@ layout: default
       De dagplanning is toevoegd. Ook is er advies voor parkeren en openbaar vervoer in Italie.
     </p>
     <p>
-      De lokaties voor de lunch en het diner zijn toegevoegd.
+      De locaties voor de lunch en het diner zijn toegevoegd.
     </p>
     <p>
       Het menu van de lunch staat online.
